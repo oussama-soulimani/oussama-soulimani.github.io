@@ -1,0 +1,16 @@
+{
+  "name": "Mijn PWA page",
+  "short_name": "Mijn PWA",
+  "theme_color": "#FF0000",
+  "background_color": "#fff",
+  "display": "fullscreen",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "24x24",
+      "type": "image/png"
+    }
+  ]
+}
