@@ -1,5 +1,5 @@
 if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register(‘/sw.js’, { scope: ‘/personen/’ } );
+  navigator.serviceWorker.register('/sw.js');
 }
 
 // if ('pushManager' in window){
